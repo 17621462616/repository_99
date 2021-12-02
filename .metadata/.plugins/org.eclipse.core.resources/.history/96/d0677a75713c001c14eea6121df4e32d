@@ -1,0 +1,5 @@
+package com.xx.springbootdemo.api.controller;
+
+public class HelloController {
+
+}
